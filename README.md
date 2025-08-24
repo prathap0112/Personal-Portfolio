@@ -82,7 +82,3 @@ Open-source (MIT)
 > **Give this project a ⭐ if you find it inspiring!  
 > Fork it, tweak it, and make it yours!  
 > Happy coding!**
-
----
-
-Feel free to customize the links, showcase image, and details for your own style and branding! This template will look visually engaging and **GitHub-friendly**.
